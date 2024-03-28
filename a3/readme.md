@@ -2,3 +2,6 @@ Packages used can be found in requirements.txt. You can have pip install after r
 
 Additional citation for my code:
 [text](CITATION.cff)
+
+
+Run the rice_notebook first, followed by mines, then nn.
